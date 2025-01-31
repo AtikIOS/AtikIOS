@@ -13,3 +13,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
+
+<div align="center"> 
+  
+  <a href="https://git.io/AtikIOS">    <img  alt="AtikIOS's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/AtikIOS?cardType=github&theme=blueberry&preferLogin=false" />  </a>
+</div>
+
+<br>
+
+
+
+<div align="center"> 
+  
+<a href="https://git.io/AtikIOS"><img src="https://git-hub-streak-stats.vercel.app?user=AtikIOS&theme=blue-green" alt="GitHub Streak" /></a>
+
+</div>
+
