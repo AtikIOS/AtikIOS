@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on iOS Developer
+- 🔭 I’m currently working on iOS Development
 - 🌱 I’m currently learning Advance topic from swift 
 - 💬 Ask me about Swift UIKit
 
