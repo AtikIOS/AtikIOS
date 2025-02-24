@@ -21,21 +21,17 @@ Here are some ideas to get you started:
 
 <h2>Welcome to My GitHub Profile! 🚀</h2>
 
-<div align="center"> 
-<p align="center">
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+  
   <a href="https://github.com/Murad9288">
     <img src="https://github.com/Murad9288/Murad9288/raw/Main_File/Image%20sample/iosDeveloper22.gif" alt="GitHub Profile GIF" width="380px">
   </a>
-</p>
+
+  <a href="https://git.io/AtikIOS">
+    <img alt="AtikIOS's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/AtikIOS?cardType=github&theme=blueberry&preferLogin=false">
+  </a>
+
 </div>
-<br>
-
-
-
-<div align="center"> 
-  <a href="https://git.io/AtikIOS">    <img  alt="AtikIOS's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/AtikIOS?cardType=github&theme=blueberry&preferLogin=false" />  </a>
-</div>
-<br>
 
 
 
