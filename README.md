@@ -6,17 +6,13 @@
     </a>
   </p>
 </div>
+<br>
 
 
+<h3 align="center" style="font-family: Arial, sans-serif; font-weight: bold; color: #28F71A;">
+  𝐇𝐈 𝐓𝐇𝐄𝐑𝐄! 𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 𝐌𝐘 𝐆𝐈𝐓𝐇𝐔𝐁 𝐏𝐑𝐎𝐅𝐈𝐋𝐄 - 👋
+</h3>
 
-<div align="center"> 
-  <svg width="400" height="30" viewBox="0 0 400 30">
-    <text x="400" y="20" font-size="20" fill="red">
-      <animate attributeName="x" from="400" to="-200" dur="5s" repeatCount="indefinite" />
-      Welcome to My GitHub Profile! 🚀
-    </text>
-  </svg>
-</div>
 
 
 **AtikIOS/AtikIOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
