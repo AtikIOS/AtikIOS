@@ -9,7 +9,7 @@
 <br>
 
 
-<h3 align="center" style="font-family: Arial, sans-serif; font-weight: bold; color: #28F71A;">
+<h3 align="left" style="font-family: Arial, sans-serif; font-weight: bold; color: #28F71A;">
   𝐇𝐈 𝐓𝐇𝐄𝐑𝐄! 𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 𝐌𝐘 𝐆𝐈𝐓𝐇𝐔𝐁 𝐏𝐑𝐎𝐅𝐈𝐋𝐄 - 👋
 </h3>
 
