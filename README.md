@@ -53,6 +53,30 @@
   </a>
 </div>
 
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th>
+          <a href="https://github.com/Murad9288">
+            <img src="/Murad9288/Murad9288/raw/Main_File/Image sample/4.gif" style="max-width: 100%; display: inline-block;">
+          </a>
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          <a href="https://github.com/Murad9288">
+            <img src="https://github.com/Murad9288/Murad9288/raw/output/github-contribution-grid-snake-dark.svg" style="max-width: 100%;">
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+
 
 
 <div align="left"> 
