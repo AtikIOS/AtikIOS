@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<div align="center"> 
+      <marquee>This is basic example of marquee</marquee>
+</div>
+
 **AtikIOS/AtikIOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
