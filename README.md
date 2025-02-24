@@ -58,6 +58,7 @@
 <a href="https://git.io/AtikIOS"><img src="https://git-hub-streak-stats.vercel.app?user=AtikIOS&theme=blue-green" alt="GitHub Streak" /></a>
 </div>
 
+<br>
 <div align="center" dir="auto">
   <markdown-accessiblity-table data-catalyst="">
     <table>
@@ -66,11 +67,11 @@
           <th>
             <p dir="auto">
               <animated-image data-catalyst="">
-                <a href="https://github.com/Murad9288" data-target="animated-image.originalLink">
+                <a href="https://github.com/AtikIOS" data-target="animated-image.originalLink">
                   <img src="https://github.com/Murad9288/Murad9288/raw/Main_File/Image%20sample/4.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
                 </a>
                 <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
-                  <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://github.com/Murad9288" target="_blank">
+                  <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://github.com/AtikIOS" target="_blank">
                     <span data-target="animated-image.imageContainer">
                       <img data-target="animated-image.replacedImage" alt="4.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/Murad9288/Murad9288/raw/Main_File/Image%20sample/4.gif" style="display: block; opacity: 1;">
                       <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="800" height="60"></canvas>
@@ -87,7 +88,7 @@
                         <rect x="9" y="2" width="3" height="12" rx="1"></rect>
                       </svg>
                     </button>
-                    <a data-target="animated-image.openButton" aria-label="Open 4.gif in new window" class="AnimatedImagePlayer-button" href="https://github.com/Murad9288" target="_blank">
+                    <a data-target="animated-image.openButton" aria-label="Open 4.gif in new window" class="AnimatedImagePlayer-button" href="https://github.com/AtikIOS" target="_blank">
                       <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
                       </svg>
@@ -102,7 +103,7 @@
       <tbody>
         <tr>
           <td>
-            <a href="https://github.com/Murad9288">
+            <a href="https://github.com/AtikIOS">
               <img src="https://github.com/Murad9288/Murad9288/raw/output/github-contribution-grid-snake-dark.svg" style="max-width: 100%;">
             </a>
           </td>
