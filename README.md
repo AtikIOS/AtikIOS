@@ -36,12 +36,12 @@
 
 
 
-**AtikIOS/AtikIOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on iOS Development
-- 🌱 I’m currently learning Advance topic from swift 
+- 🔰 My name is Md. Atik Hasan
+- 🔭 I’m currently working on iOS Developer
+- 🌱 I’m currently learning Advance topic from swift
+- 💞️ I am looking for an opportunity as an iOS developer in a good App Store-based company.
 - 💬 Ask me about Swift UIKit
 
 
