@@ -19,20 +19,27 @@ Here are some ideas to get you started:
 - 💬 Ask me about Swift UIKit
 
 
-
+<h2>Welcome to My GitHub Profile! 🚀</h2>
 
 <div align="center"> 
-  
-  <a href="https://git.io/AtikIOS">    <img  alt="AtikIOS's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/AtikIOS?cardType=github&theme=blueberry&preferLogin=false" />  </a>
+<p align="center">
+  <a href="https://github.com/Murad9288">
+    <img src="https://github.com/Murad9288/Murad9288/raw/Main_File/Image%20sample/iosDeveloper22.gif" alt="GitHub Profile GIF" width="380px">
+  </a>
+</p>
 </div>
-
 <br>
 
 
 
 <div align="center"> 
-  
-<a href="https://git.io/AtikIOS"><img src="https://git-hub-streak-stats.vercel.app?user=AtikIOS&theme=blue-green" alt="GitHub Streak" /></a>
+  <a href="https://git.io/AtikIOS">    <img  alt="AtikIOS's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/AtikIOS?cardType=github&theme=blueberry&preferLogin=false" />  </a>
+</div>
+<br>
 
+
+
+<div align="center"> 
+<a href="https://git.io/AtikIOS"><img src="https://git-hub-streak-stats.vercel.app?user=AtikIOS&theme=blue-green" alt="GitHub Streak" /></a>
 </div>
 
