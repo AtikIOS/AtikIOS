@@ -35,9 +35,6 @@
 </table>
 
 
-
-
-Here are some ideas to get you started:
 - 🔰 My name is Md. Atik Hasan
 - 🔭 I’m currently working on iOS Developer
 - 🌱 I’m currently learning Advance topic from swift
