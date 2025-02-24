@@ -24,15 +24,16 @@
       </th>
       <th>
         <a href="https://github.com/AtikIOS">
-          <img src="https://camo.githubusercontent.com/a8ec6f1b9571b543b5b3b86248ab9a1c94b99b88c9ca28741f0c2a9eeacb278e/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d4174696b494f53267374796c653d666c61742d73717561726526636f6c6f723d303062666666266c6162656c3d4749544855422b50524f46494c452b5649455753" 
+          <img src="https://camo.githubusercontent.com/a8ec6f1b9571b543b5b3b86248ab9a1c94b99b88c9ca28741f0c2a9eeacb278e/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d4d7572616439323838267374796c653d666c61742d73717561726526636f6c6f723d303062666666266c6162656c3d4749544855422b50524f46494c452b5649455753" 
                alt="AtikIOS" 
-               data-canonical-src="https://komarev.com/ghpvc/?username=AtikIOS&style=flat-square&color=00bfff&label=GITHUB+PROFILE+VIEWS" 
+               data-canonical-src="https://komarev.com/ghpvc/?username=AtikIOS&amp;style=flat-square&amp;color=00bfff&amp;label=GITHUB+PROFILE+VIEWS" 
                style="max-width: 100%;">
         </a>
       </th>
     </tr>
   </thead>
 </table>
+
 
 
 **AtikIOS/AtikIOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
