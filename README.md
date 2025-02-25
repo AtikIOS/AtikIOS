@@ -1,8 +1,8 @@
 <div align="center" dir="auto">
   <p dir="auto">
-    <a href="https://github.com/Murad9288">
+    <a href="https://github.com/AtikIOS">
       <img src="https://readme-typing-svg.demolab.com?font=Arial+Black&size=48&duration=4000&pause=1700&color=28F71A&center=true&vCenter=true&multiline=false&width=1350&height=100&lines=ASSALAMUALAIKUM++WARAHMATULLAH+😊" 
-      alt="Murad GitHub" style="max-width: 100%;">
+      alt="AtikIOS GitHub" style="max-width: 100%;">
     </a>
   </p>
 </div>
@@ -48,7 +48,7 @@
     <img alt="AtikIOS's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/AtikIOS?cardType=github&theme=blueberry&preferLogin=false">
   </a>
   
-  <a href="https://github.com/Murad9288">
+  <a href="https://github.com/AtikIOS">
     <img src="https://github.com/Murad9288/Murad9288/raw/Main_File/Image%20sample/iosDeveloper22.gif" alt="GitHub Profile GIF" width="380px">
   </a>
 </div>
