@@ -11,28 +11,7 @@
 #  𝐇𝐈 𝐓𝐇𝐄𝐑𝐄! 𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 𝐌𝐘 𝐆𝐈𝐓𝐇𝐔𝐁 𝐏𝐑𝐎𝐅𝐈𝐋𝐄 - 👋
 </h2>
 
-<table>
-  <thead>
-    <tr>
-      <th>
-        <a href="https://github.com/AtikIOS">
-          <img src="https://camo.githubusercontent.com/3cdb02e38793ead512661ba048b52941abe8e1b1b1cc7599810b65a8de38e6fc/68747470733a2f2f63646e312e69636f6e66696e6465722e636f6d2f646174612f69636f6e732f677265656e2d627573696e6573732f3732302f766965772d3531322e706e67" 
-               height="20" width="30" 
-               data-canonical-src="https://cdn1.iconfinder.com/data/icons/green-business/720/view-512.png" 
-               style="max-width: 100%;">
-        </a>
-      </th>
-      <th>
-        <a href="https://github.com/AtikIOS">
-          <img src="https://camo.githubusercontent.com/a8ec6f1b9571b543b5b3b86248ab9a1c94b99b88c9ca28741f0c2a9eeacb278e/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d4d7572616439323838267374796c653d666c61742d73717561726526636f6c6f723d303062666666266c6162656c3d4749544855422b50524f46494c452b5649455753" 
-               alt="AtikIOS" 
-               data-canonical-src="https://komarev.com/ghpvc/?username=AtikIOS&amp;style=flat-square&amp;color=00bfff&amp;label=GITHUB+PROFILE+VIEWS" 
-               style="max-width: 100%;">
-        </a>
-      </th>
-    </tr>
-  </thead>
-</table>
+![](https://komarev.com/ghpvc/?username=AtikIOS&color=green)
 
 
 - 👤 My name is Md. Atik Hasan
