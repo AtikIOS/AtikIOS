@@ -1,10 +1,10 @@
 <div align="center" dir="auto">
-  <p dir="auto">
-    <a href="https://github.com/AtikIOS">
-      <img src="https://readme-typing-svg.demolab.com?font=Arial+Black&size=48&duration=4000&pause=1700&color=28F71A&center=true&vCenter=true&multiline=false&width=1350&height=100&lines=ASSALAMUALAIKUM++WARAHMATULLAH+😊" 
-      alt="AtikIOS GitHub" style="max-width: 100%;">
-    </a>
-  </p>
+ <p align="center">
+  <a href="https://github.com/AtikIOS">
+    <img src="https://camo.githubusercontent.com/facb5e34febc8b2bb82d0a5f63994fcf384e4d8ef2baaf5f9922f779e5586838/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d3f666f6e743d417269616c2b426c61636b2673697a653d3438266475726174696f6e3d343030302670617573653d3137303026636f6c6f723d3238463731412663656e7465723d74727565267643656e7465723d74727565266d756c74696c696e653d66616c73652677696474683d31333530266865696768743d313030266c696e65733d415353414c414d55414c41494b554d2b2b57415241484d4154554c4c4148" alt="AtikIOS GitHub">
+  </a>
+</p>
+
 </div>
 
 <h2 align="left" style="font-family: Arial, sans-serif; font-weight: bold; color: #28F71A;">
