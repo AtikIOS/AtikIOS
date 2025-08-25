@@ -13,7 +13,6 @@
 
 ![](https://komarev.com/ghpvc/?username=AtikIOS&color=green)
 
-
 - 👤 My name is Md. Atik Hasan
 - 🍏📱 I’m currently working on iOS Developer
 - 🌱 I’m currently learning Advance topic from swift
@@ -22,13 +21,13 @@
 
 
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+<div align="left" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
    <a href="https://git.io/AtikIOS">
     <img alt="AtikIOS's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/AtikIOS?cardType=github&theme=blueberry&preferLogin=false">
   </a>
   
   <a href="https://github.com/AtikIOS">
-    <img src="https://github.com/Murad9288/Murad9288/raw/Main_File/Image%20sample/iosDeveloper22.gif" alt="GitHub Profile GIF" width="380px">
+    <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" alt="GitHub Profile GIF" width="380px">
   </a>
 </div>
 
