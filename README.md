@@ -13,11 +13,34 @@
 
 ![](https://komarev.com/ghpvc/?username=AtikIOS&color=green)
 
-- 👤 My name is Md. Atik Hasan
-- 🍏📱 I’m currently working on iOS Developer
-- 🌱 I’m currently learning Advance topic from swift
-- 💞️ I am looking for an opportunity as an iOS developer in a good App Store-based company.
-- 💬 Ask me about Swift UIKit
+👤 𝐀𝐁𝐎𝐔𝐓 𝐌𝐄: 
+- My name is Md. Atik Hasan
+- I’m currently working as a iOS Developer in Snowpex
+- I’m currently learning Advance topic from swift
+- I am looking for an opportunity as an iOS developer in a good App Store-based company.
+- Ask me about Swift UIKit in my personal linked messeger.
+- Previously solved 600+ coding problems across various online judges
+
+
+
+
+🛠️ 𝐌𝐘 𝐓𝐄𝐂𝐇𝐍𝐈𝐂𝐀𝐋 𝐒𝐊𝐈𝐋𝐋𝐒 & 𝐄𝐗𝐏𝐄𝐑𝐈𝐄𝐍𝐂𝐄:
+
+- Frameworks / Libraries (Swift):
+◉ UIKit ◉ Foundation ◉ Auto Layout ◉ Auto Resize ◉ RESTful API ◉ API integration ◉ Agora SDK ◉ AVFoundation ◉ Image Processing ◉ Video Processing ◉ Vision ◉ Alamofire ◉ PDFKit ◉ RevenueCat ◉ StoreKit ◉ MediaPlayer ◉ AVKit ◉ CoreData ◉ Document Directory ◉ Speech Recognition ◉ Push Notification ◉ Core Motion ◉ Text-to-Speech ◉ Speech-to-Text ◉ Cocoa Touch ◉ Essential Xcode Tools.
+
+- Design Patterns:
+◉ MVC ◉ MVVM
+
+- Tools:
+◉ Git ◉ Figma ◉ Firebase ◉ GitHub ◉ Bitbucket ◉ Printer ◉ App Store Connect ◉ TestFlight.
+
+- Programming Languages:
+◉ Swift ◉ Python ◉ C ◉ C++
+
+- Other Skills:
+◉ In-App Purchase ◉ App Publish in App Store ◉ Google , Facebook & Apple Authentication ◉ Google & Meta Ads ◉ Algorithms & Data Structures ◉ Problem solving ◉ Object-Oriented Programming ◉ SQL ◉ Microsoft Office Application ◉ Team Collaboration ◉ Skilled in using CocoaPods & Swift Packages ◉ Strong Communication Skills.
+
 
 
 
