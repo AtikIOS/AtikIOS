@@ -39,7 +39,7 @@
 ◉ Swift ◉ Python ◉ C ◉ C++
 
 - Other Skills:
-◉ In-App Purchase ◉ App Publish in App Store ◉ Google , Facebook & Apple Authentication ◉ Google & Meta Ads ◉ Algorithms & Data Structures ◉ Problem solving ◉ Object-Oriented Programming ◉ SQL ◉ Microsoft Office Application ◉ Team Collaboration ◉ Skilled in using CocoaPods & Swift Packages ◉ Strong Communication Skills.
+◉ In-App Purchase ◉ App Publish in App Store ◉ Push Notification ◉ Google , Facebook & Apple Authentication ◉ Google & Meta Ads ◉ Algorithms & Data Structures ◉ Problem solving ◉ Object-Oriented Programming ◉ SQL ◉ Microsoft Office Application ◉ Team Collaboration ◉ Skilled in using CocoaPods & Swift Packages ◉ Strong Communication Skills.
 
 
 
